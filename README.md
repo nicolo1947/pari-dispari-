@@ -1,2 +1,2 @@
 # pari-dispari-
-pari e dispari di un numero naturate, senza controllo degli input in c++
+pari e dispari di un numero naturale senza controllo degli input in c++
